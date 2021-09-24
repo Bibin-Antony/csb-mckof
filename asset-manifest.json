@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://bibin-antony.github.io/csb-mckof/static/css/main.c41ee3b4.chunk.css",
+    "main.js": "https://bibin-antony.github.io/csb-mckof/static/js/main.32b6a2c6.chunk.js",
+    "main.js.map": "https://bibin-antony.github.io/csb-mckof/static/js/main.32b6a2c6.chunk.js.map",
+    "runtime-main.js": "https://bibin-antony.github.io/csb-mckof/static/js/runtime-main.83709181.js",
+    "runtime-main.js.map": "https://bibin-antony.github.io/csb-mckof/static/js/runtime-main.83709181.js.map",
+    "static/js/2.0e8e227e.chunk.js": "https://bibin-antony.github.io/csb-mckof/static/js/2.0e8e227e.chunk.js",
+    "static/js/2.0e8e227e.chunk.js.map": "https://bibin-antony.github.io/csb-mckof/static/js/2.0e8e227e.chunk.js.map",
+    "index.html": "https://bibin-antony.github.io/csb-mckof/index.html",
+    "precache-manifest.694e1ea15b4a70c25c74e5e8c000cefb.js": "https://bibin-antony.github.io/csb-mckof/precache-manifest.694e1ea15b4a70c25c74e5e8c000cefb.js",
+    "service-worker.js": "https://bibin-antony.github.io/csb-mckof/service-worker.js",
+    "static/css/main.c41ee3b4.chunk.css.map": "https://bibin-antony.github.io/csb-mckof/static/css/main.c41ee3b4.chunk.css.map",
+    "static/js/2.0e8e227e.chunk.js.LICENSE.txt": "https://bibin-antony.github.io/csb-mckof/static/js/2.0e8e227e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83709181.js",
+    "static/js/2.0e8e227e.chunk.js",
+    "static/css/main.c41ee3b4.chunk.css",
+    "static/js/main.32b6a2c6.chunk.js"
+  ]
+}
